@@ -85,22 +85,6 @@ HueBot uses sophisticated colour theory to generate harmonious palettes:
 
 ## 🤝 Contributing
 
-Contributions are welcome! Please feel free to raise an issue and only submit a Pull Request when the issue is assigned.
-
----
-
-## 👨‍💻 Author
-
-**Anurag Adhikari**
-
-- GitHub: [@anurag-adk](https://github.com/anurag-adk)
-
----
-
-## 🙏 Acknowledgments
-
-- Colour theory algorithms inspired by modern design tools
-- Built with love for designers and developers
-- Part of Hacktoberfest 2025
+Contributions are welcome! Please feel free to raise an issue and submit a Pull Request when the issue is assigned.
 
 ---
